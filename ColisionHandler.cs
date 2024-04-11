@@ -14,6 +14,7 @@ public class ColisionHandler : MonoBehaviour
 
     bool isTransitioning = false;
     bool stopCollisions = false;
+    // Are my changes immediately commited?
 
     void Start()
     {
